@@ -1,0 +1,11 @@
+.header-link {
+  display: flex;
+  gap: 15px; /* Space between links */
+}
+
+.header-container {
+  display: flex;
+  justify-content: flex-end; /* Align links to the right */
+  padding: 10px; /* Padding around the header */
+  background-color: non; /* Background color */
+}
